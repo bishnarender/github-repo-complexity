@@ -1,7 +1,7 @@
 ## github-repo-complexity
 I tried for the as much time i had till 19th date. The shown result is for just one repo and efforts are present in the file <b>"prompt langchain.ipynb"</b>.
 
-Below conversation are from the repo "https://github.com/hwchase17/langchain".
+Below conversation are with the repo "https://github.com/hwchase17/langchain".
 
 ====================================================
 
